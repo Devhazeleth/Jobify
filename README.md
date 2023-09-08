@@ -2,7 +2,7 @@
 The Job Tracking App is a versatile and user-friendly web application designed to streamline the process of managing job applications, interviews, and career progress. This open-source project empowers job seekers to stay organized, efficient, and informed throughout their job search journey. 
 
 
-# Key Features:
+#  🔎 Key Features:
 
 1. Job Application Management: Users can add, edit, and organize job applications. They can input details such as job title, company, application date, and application status.
 
@@ -20,7 +20,7 @@ The Job Tracking App is a versatile and user-friendly web application designed t
 
 8. User-Friendly Interface: The intuitive and responsive user interface ensures that job seekers can easily navigate and utilize all features of the application.
 
-# Technology Stack:
+# 💻 Technology Stack:
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express.js
 - Database: MongoDB
@@ -40,7 +40,7 @@ The Job Tracking App has an active community of users and contributors who provi
 Future Development:
 The project roadmap includes plans for continuous improvement, including the addition of more features, enhanced integrations, and mobile app development to cater to a wider user base.
 
-# License:
+# 💳 License:
 The Job Tracking App is released under an open-source license (e.g., MIT) to encourage collaboration and innovation within the community.
 
 Join us in simplifying and improving the job search process with the Job Tracking App! Whether you're a job seeker looking to organize your job hunt or a developer passionate about helping others, your contributions are welcome to make this tool even more valuable for job seekers worldwide.
